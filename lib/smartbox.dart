@@ -71,3 +71,11 @@ class Myimage extends StatelessWidget {
     );
   }
 }
+
+Widget Imaage (String sma , Color co){
+  return Image(
+      image: AssetImage(sma),
+      height: 65,
+      color: co
+  );
+}
