@@ -1,16 +1,11 @@
-# smarthome
+# Smartphone UI Dashboard Concept
 
-A new Flutter project.
+![App Screenshot](https://github.com/NGURE-TIM/Smarthome-ui/blob/main/smarthome%20ui.jpg)
 
-## Getting Started
+Welcome to the Smartphone UI Dashboard Concept project! This concept application is designed to showcase a modern and intuitive user interface (UI) dashboard for smartphones, providing users with quick access to essential information and features.
 
-This project is a starting point for a Flutter application.
+## Overview
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Smartphone UI Dashboard Concept aims to:
+- Provide users with an aesthetically pleasing and user-friendly dashboard interface.
+- Offer seamless navigation and interaction through intuitive gestures and animations.
